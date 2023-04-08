@@ -150,6 +150,13 @@ button img{
     }
 }
 
+@media screen and (max-width:200px){
+   .principal{
+        width: 90%;
+        height: 90%;
+    }
+}
+
 
 
 
